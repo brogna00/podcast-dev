@@ -4,17 +4,17 @@ Este é um projeto HTML/CSS que demonstra o uso do CSS Grid para criar um layout
 
 ![image](https://github.com/brogna00/podcast-dev/assets/93611151/47f29069-28d3-4c69-a09b-ffda28f87772)
 
-## Funcionalidades
-
-- Layout moderno e responsivo.
-- Uso extensivo do CSS Grid para organizar o conteúdo.
-- Estilização com CSS flexível e limpo.
-
 ## Pré-requisitos
 
 Antes de começar, certifique-se de que você tenha os seguintes requisitos instalados:
 
 - Navegador Web (Google Chrome, Mozilla Firefox, Safari, etc.).
+
+## Funcionalidades
+
+- Layout moderno e responsivo.
+- Uso extensivo do CSS Grid para organizar o conteúdo.
+- Estilização com CSS flexível e limpo.
 
 ## Contato
 
